@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="700c7eba-b41e-4b18-87b5-e676ec1c2e45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="700c7eba-b41e-4b18-87b5-e676ec1c2e45" name="Changes" comment="ok">
       <change beforePath="$PROJECT_DIR$/w1901982_array_version/src/FuelStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/w1901982_array_version/src/FuelStation.java" afterDir="false" />
     </list>
+    <list id="68c419f9-8ed1-417a-888a-45386461f8ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +52,27 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="700c7eba-b41e-4b18-87b5-e676ec1c2e45" name="Changes" comment="" />
+      <changelist id="68c419f9-8ed1-417a-888a-45386461f8ca" name="New changelist" comment="" />
       <created>1659854758241</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659854758241</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1661164466663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661164466663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <created>1661164514085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661164514085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>

@@ -164,7 +164,7 @@ public class FuelStation {
                 if (fuelStation[i][j] == null)
                     System.out.println("Place " +(i)+" "+(j)+ " is empty");
                 else {
-                    System.out.println("Place " +(i)+" "+(j)+ " is empty");
+                    System.out.println("Place " +(i)+" "+(j)+ " is not empty");
                 }
             }
         }
